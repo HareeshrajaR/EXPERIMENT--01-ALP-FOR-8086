@@ -1,12 +1,7 @@
-# EXPERIMENT--01-ALP-FOR-8086
 ## Name :HAREESH R
 ## Roll no :212223230068
 ## Date of experiment :
-
-
-
-
-
+# EXPERIMENT 01 ALP FOR 8086
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
